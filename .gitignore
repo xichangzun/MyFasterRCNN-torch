@@ -10,3 +10,6 @@ trainhis
 VOCdevkit
 IM2007
 AN2007
+
+#System
+.DS_Store
