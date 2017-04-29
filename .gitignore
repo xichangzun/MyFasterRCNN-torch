@@ -1,0 +1,12 @@
+#Test Output
+*.jpg
+*.png
+*.t7
+*.txt
+trainhis
+
+#Train Data
+*.tar
+VOCdevkit
+IM2007
+AN2007
